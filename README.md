@@ -15,9 +15,8 @@ This repository contains my project in regards to review of tips Data Set using 
 
 # References
 
-1. [GitHub](https://github.com/)
-2. [An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop)
-3. [Anaconda](https://www.anaconda.com/)
-4. [cmder](http://cmder.net/)
-5. [Visual Studio Code](https://code.visualstudio.com/)
-6. [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/)
+1. https://github.com/
+2. https://programminghistorian.org/en/lessons/getting-started-with-github-desktop
+3. https://www.anaconda.com/
+4. http://cmder.net/
+6. https://jupyterlab.readthedocs.io/en/stable/
